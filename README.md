@@ -3,7 +3,7 @@
 Simple android app to use [BLANK](blank.works) or [Satodime](satodime.io) cards on a smartphone. 
 Verify your Bitcoin with a tap on your phone!
 
-BLANK is a bearer chip card that allows you to exchange Bitcoin assets like any banknote - powered by open source [Satochip](https://github.com/Toporin/SatochipApplet) technology.
+Using a bearer chip card that allows you to exchange Bitcoin assets like any banknote - powered by open source [Satochip](https://github.com/Toporin/SatochipApplet) technology.
 
 Safely pass it along multiple times thanks to the secure chip in the card. Trustless, easy to verify and completly secure.
 
