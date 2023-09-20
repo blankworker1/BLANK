@@ -28,6 +28,6 @@ The [Javacryptotools library](https://github.com/Toporin/Javacryptotools) uses A
 * Opensea](https://opensea.io/)
 * Coingecko](https://www.coingecko.com/)
 
-These APIs are used to get info such as balances, NFT name, description and image preview.
+These APIs are used to get info such as balances, exchange rate, description and image preview.
 
-Remark: some explorer APIs require an API key to work correctly. API keys are provided through ```./satodime-android/src/main/res/values/apikeys.xml ``` (see ```apikeys-sample.xml``` for sample).
+
