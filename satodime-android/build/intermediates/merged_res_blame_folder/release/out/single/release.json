@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_card_connected.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_card_connected.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_pending_request.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_pending_request.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_popup_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/popup_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_rop.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_rop.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_bch.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_bch.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_unlock.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_unlock.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_success.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_success.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_qr_code_2_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_qr_code_2_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_lock.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_auth_batch_no.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_auth_batch_no.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_key_number_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/key_number_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_copy.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_content_copy_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_content_copy_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_app_logo.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/app_logo.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_custom_thumb.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/custom_thumb.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_auth_batch_ok.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_auth_batch_ok.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_content_copy_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/font_segoe_ui_bold.ttf.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/font/segoe_ui_bold.ttf"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_content_copy_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_content_copy_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_qr_code_2_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_qr_code_2_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_open_in_new_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_open_in_new_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_credit_cards_payment.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_credit_cards_payment.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_transfer_card.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_transfer_card.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_qr_code_2_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_qr_code_2_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_qr_code_2_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_qr_code_2_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_item_card.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_content_copy_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_keyslot_details.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_keyslot_details.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/font_segoe_ui.ttf.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/font/segoe_ui.ttf"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_xcptest.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_xcptest.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_app_logo_horizontal.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/app_logo_horizontal.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_ltctest.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_ltctest.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_onboarding_4.jpg.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/onboarding_4.jpg"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_open_in_new_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_open_in_new_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_open_in_new_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_open_in_new_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_qr_code_2_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_qr_code_2_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_xcp.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_xcp.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_card_outline_green.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/card_outline_green.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_item_side_nav.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/item_side_nav.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_content_copy_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_content_copy_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_qr_code_2_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_qr_code_2_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_arrow_dropright_circle.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_arrow_dropright_circle.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_unseal.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_unseal.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_content_copy_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_content_copy_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_unknown.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_unknown.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_content_copy_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_content_copy_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_content_copy_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_certificate_details.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_certificate_details.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_warning.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_content_copy_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_content_copy_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_home.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_qr_code_2_black_18_hdpi.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_qr_code_2_black_18_hdpi.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_bottom_corer_round.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/bottom_corer_round.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_hourglass.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_hourglass.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_card_ouline_red.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/card_ouline_red.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_slide_right.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/slide_right.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_content_copy_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_content_copy_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_item_selected_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/item_selected_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_open_in_new_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_open_in_new_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_cancel.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/cancel.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_card_info.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_card_info.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_onboarding_1.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_onboarding_1.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_qr_code_2_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_qr_code_2_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_open_in_new_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_open_in_new_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_qr_code_2_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_qr_code_2_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_btctest.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_btctest.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_spinner_item.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_powered_by_logo.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/powered_by_logo.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_back.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_back.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_onboard_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_onboard_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_open_in_new_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_open_in_new_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_network.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_network.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_fade_out.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_out_from_bottom.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_onboarding_2.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_onboarding_2.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_qr_code_2_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_qr_code_2_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_eth.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_eth.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_money_transfer.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/money_transfer.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_card_info.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_card_info.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_bottom_up.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_splash_screen_white_logo.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/splash_screen_white_logo.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_nothing.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/nothing.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_etherium.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_etherium.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_onboarding_3.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/onboarding_3.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_open_in_new_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_open_in_new_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/font_segoe_ui__bold_italic.ttf.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/font/segoe_ui__bold_italic.ttf"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_ask.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_ask.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_qr_code_2_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_qr_code_2_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_content_copy_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_open_in_new_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_open_in_new_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_bchtest.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_bchtest.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_unknowntest.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_unknowntest.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_external_link_alt.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_external_link_alt.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_down_arrow.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_down_arrow.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_onboarding_2.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/onboarding_2.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_info.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_content_copy_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_content_copy_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_content_copy_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_content_copy_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_qrcode.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_qrcode.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_qr_code_2_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_qr_code_2_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_in_from_top.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/in_from_top.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_open_in_new_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_open_in_new_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_item_background_stork.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/item_background_stork.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_onboarding_1.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/onboarding_1.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_empty.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_empty.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_fade_in.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_onboarding_3.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_onboarding_3.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_content_copy_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_content_copy_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_card_info_item_background_not_connected.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/card_info_item_background_not_connected.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_card_not_connected.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_card_not_connected.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_gold_store_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/gold_store_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_open_in_new_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_open_in_new_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_qr_code_2_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_qr_code_2_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_content_copy_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_menu.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_slide_left.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/slide_left.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_activity_background.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/activity_background.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_navigation_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/navigation_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_reset_ownership.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_reset_ownership.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_info.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_open_in_new_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_open_in_new_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_reset.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_reset.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_splash_screen_golden_logo.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/splash_screen_golden_logo.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_settings.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_open_in_new_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_open_in_new_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_card_info_item_background.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/card_info_item_background.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_content_copy_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_content_copy_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_content_copy_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_content_copy_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_warning.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/warning.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-v24_ic_onboarding_4.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-v24/ic_onboarding_4.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_details.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_details.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_settings.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_onboarding_slide_layout.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/onboarding_slide_layout.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_open_in_new_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_open_in_new_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/anim_popup.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/anim/popup.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_qr_code_2_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_qr_code_2_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_custom_track.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/custom_track.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_card_outline_gold.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/card_outline_gold.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_qr_code_2_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_qr_code_2_black_18.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_content_copy_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_content_copy_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_qr_code_2_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_qr_code_2_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_btc.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_btc.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xhdpi_outline_content_copy_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xhdpi/outline_content_copy_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_on_boarding.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_ltc.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_ltc.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxxhdpi_outline_open_in_new_black_20.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxxhdpi/outline_open_in_new_black_20.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/release/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_content_copy_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_content_copy_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_open_in_new_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_open_in_new_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_bitcoin.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_bitcoin.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_qr_code_2_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_qr_code_2_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_content_writing.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/content_writing.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_open_in_new_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_open_in_new_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_qr_code_2_black_36.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_qr_code_2_black_36.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_coin_bch.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_coin_bch.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-xxhdpi_outline_open_in_new_black_48.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-xxhdpi/outline_open_in_new_black_48.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_dialog_uninitialized.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/dialog_uninitialized.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_ic_ltc.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/ic_ltc.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-mdpi_outline_content_copy_black_24.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-mdpi/outline_content_copy_black_24.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/layout_activity_seal_keyslot.xml.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/layout/activity_seal_keyslot.xml"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable_onboarding_4_white.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable/onboarding_4_white.png"
+    },
+    {
+        "merged": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/build/intermediates/res/merged/release/drawable-hdpi_outline_content_copy_black_18.png.flat",
+        "source": "/Users/mohithasan/Downloads/Satodime-Android-master/satodime-android/src/main/res/drawable-hdpi/outline_content_copy_black_18.png"
+    }
+]
