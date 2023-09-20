@@ -1,10 +1,11 @@
-# Satodime-Android
+# BLANK-Android
 
-Simple android app to use your [Satodime card](satodime.io) on a smartphone. 
-Seal-Unseal-Redeem Bitcoin and other cryptos with a tap on your phone!
+Simple android app to use [BLANK](blank.works) or [Satodime](satodime.io) cards on a smartphone. 
+Verify your Bitcoin with a tap on your phone!
 
-Satodime is an [open-source](https://github.com/Toporin/Satodime-Tool) bearer chip card that allows you to exchange crypto assets like any banknote. 
-Safely pass it along multiple times thanks the secure chip, unseal anytime with ease. Trustless, easy to verify and completly secure.
+BLANK is a bearer chip card that allows you to exchange Bitcoin assets like any banknote - powered by open source [Satochip](https://github.com/Toporin/SatochipApplet) technology.
+
+Safely pass it along multiple times thanks to the secure chip in the card. Trustless, easy to verify and completly secure.
 
 ## build and dependencies
 
