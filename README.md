@@ -11,7 +11,7 @@ Safely pass it along multiple times thanks to the secure chip in the card. Trust
 
 Build apk with: ```./gradlew clean build```
 
-Satodime-Android uses two external libraries: 
+BLANK-Android uses two external libraries: 
 * [Satochip-Java](https://github.com/Toporin/Satochip-Java) 
 * [Javacryptotools](https://github.com/Toporin/Javacryptotools)
 
